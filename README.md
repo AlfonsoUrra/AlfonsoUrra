@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Alfonso+Urra...😃...;++;Love+MARKETING+and+DATA,;I'm+now+a+Data+Analyst+Freelance,;<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Alfonso+Urra...😃...;++;Love+MARKETING+and+DATA,;I'm+now+a+Data+Scientist+Freelance,;<3"></a>
 </p>
 
 <p align="center"> <strong>Data Analyst</strong> with background in Market Analysis and Marketing.<br /> know me better👇!</p>
